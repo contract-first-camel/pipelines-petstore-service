@@ -130,6 +130,9 @@
             <resource>
                 <directory>src/main/resources</directory>
             </resource>
+            <resource>
+                <directory>target/generated-sources/camel-quarkus-rest-openapi/src/main/java</directory>
+            </resource>
         </resources>
 
         <pluginManagement>
